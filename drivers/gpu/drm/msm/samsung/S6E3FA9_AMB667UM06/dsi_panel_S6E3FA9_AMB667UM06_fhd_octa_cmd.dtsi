@@ -31,7 +31,7 @@
 		qcom,mdss-dsi-v-top-border = <0>;
 		qcom,mdss-dsi-v-bottom-border = <0>;
 
-		qcom,mdss-dsi-panel-framerate = <60>;
+		qcom,mdss-dsi-panel-framerate = <70>;
 		qcom,mdss-dsi-panel-clockrate = <1200000000>;
 		qcom,mdss-dsi-panel-phy-timings = [00 27 0A 0A 27 25 0A 0B 07 02 04 00];		/* SM7150 : dsi_phy_v3_0 */
 
