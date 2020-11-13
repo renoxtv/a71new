@@ -7273,7 +7273,7 @@
 				qcom,mdss-dsi-h-right-border = <0x0>;
 				qcom,mdss-dsi-v-top-border = <0x0>;
 				qcom,mdss-dsi-v-bottom-border = <0x0>;
-				qcom,mdss-dsi-panel-framerate = <0x3c>;
+				qcom,mdss-dsi-panel-framerate = <0x46>;
 				qcom,mdss-dsi-panel-clockrate = <0x47868c00>;
 				qcom,mdss-dsi-panel-phy-timings = <0x270a0a 0x27250a0b 0x7020400>;
 				qcom,mdss-dsi-underflow-color = <0xff>;
